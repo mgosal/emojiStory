@@ -7,3 +7,6 @@ plans in chess
 -create some space
 -combat=calculate
 -exchange, simplyfy
+-create an inbalance
+-avoid a pin
+-gain rank
