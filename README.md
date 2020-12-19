@@ -10,3 +10,6 @@ plans in chess
 -create an inbalance
 -avoid a pin
 -gain rank
+-king safety
+
+
